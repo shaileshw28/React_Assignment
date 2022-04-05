@@ -1,0 +1,52 @@
+.container {
+    border: 1px solid;
+    height: 400px;
+    display: grid;
+    margin: auto;
+    width: 500px;
+    margin-top: 227px;
+}
+.questionText {
+    margin: auto;
+    font-weight: 504px;
+    font-weight: bold;
+    font-size: 25px;
+}
+input {
+    padding: 10px;
+    margin-top: 40px;
+    width: 300px;
+}
+form {
+    text-align: center;
+    margin-top: 225px;
+}
+.login-button {
+    padding: 18px;
+    border-radius: 18px;
+    font-size: 17px;
+    width: 175px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+.timer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.label {
+    font-size: 20px;
+    font-weight: 600;
+}
+.result-heading {
+    margin: 23px;
+    width: 100%;
+    margin-left: 130px;
+    font-weight: 800;
+}
+.heading {
+    background-color: yellow;
+    font-weight: 800;
+}
+
